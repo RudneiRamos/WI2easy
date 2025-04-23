@@ -25,11 +25,15 @@ to load and begin using the package. If everything is working properly, you shou
 ```This is WI2easy v1.0```  
 displayed in your notebook.
 
-The attached file ```main.nb``` contain examples with all the steps necessary to utilize the features provided by our package. These steps are also thoroughly explained in our paper where the package is introduced. As the code runs, data files are generated to allow further analyses.
+The attached file ```main.nb``` contain examples with all the steps necessary to utilize all the features provided by our package. These steps are also thoroughly explained in our paper where the package is introduced. As the code runs, data files are generated to allow further analyses.
+
+## Contributions
+
+The code has been extensively tested with many different single field inflaton potentials and also with dissipation coefficients with different functional dependences on the temperature and inflaton amplitude. If any bugs or issues are found, please let us know. Contributions to WI2easy are most welcome. If you find any issues or have suggestions for improvements, please create an issue on the GitHub repository or contact the authors directly. 
 
 ## Contact
 
-For questions and suggestions, please contact: [rudnei.ramos@gmail.com](rudnei.ramos@gmail.com).
+For questions and suggestions, please contact: [rudnei@uerj.br](rudnei@uerj.br).
 
 If you use WI2easy in your research, please cite our paper:  
 [WI2easy: warm inflation dynamics made easy](link to the paper).
