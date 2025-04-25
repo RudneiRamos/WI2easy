@@ -36,4 +36,4 @@ The code has been extensively tested with many different single field inflaton p
 For questions and suggestions, please contact: [rudnei@uerj.br](rudnei@uerj.br).
 
 If you use WI2easy in your research, please cite our paper:  
-[WI2easy: warm inflation dynamics made easy](link to the paper).
+[WI2easy: warm inflation dynamics made easy](http://arxiv.org/abs/2504.17760).
